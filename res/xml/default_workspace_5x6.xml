@@ -20,7 +20,7 @@
     <!-- Middle screen [1] -->
     <appwidget
         launcher:packageName="com.android.deskclock"
-        launcher:className="com.android.alarmclock.DigitalAppWidgetProvider"
+        launcher:className="com.android.alarmclock.CustomAppWidgetProvider"
         launcher:screen="1"
         launcher:x="0"
         launcher:y="0"
